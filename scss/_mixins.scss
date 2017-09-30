@@ -1,0 +1,12 @@
+@mixin body{
+
+	*{margin: 0;
+		padding: 0;
+		font-family:Verdana, "Trebuchet MS", Swiss, sans-serif;
+
+
+		-webkit-box-sizing: border-box;
+	  	   -moz-box-sizing: border-box;
+	  			box-sizing: border-box;
+	  }
+}

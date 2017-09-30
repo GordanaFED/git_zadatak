@@ -1,0 +1,14 @@
+@import 'mixins';
+
+@include body;
+
+header{
+
+	width: 75%;
+	margin: 0 auto;
+	border:1px solid black;
+	h2{
+		color:gray;
+	}
+
+}
